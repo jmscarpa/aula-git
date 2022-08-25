@@ -14,3 +14,6 @@ Como criar commits:
 
 Quais arquivos foram criados ou modificados:
 git status
+
+Ver histórico de commits
+git log
