@@ -17,3 +17,9 @@ git status
 
 Ver histórico de commits
 git log
+
+Visualizar as alterações em um arquivo:
+git diff
+
+Ignorar modificações em um arquivo:
+git checkout nome-do-arquivo
