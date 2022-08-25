@@ -1,7 +1,9 @@
+## Basic Concepts
+
 => Commit
 1 Versão do seu código ou de um pedaço do seu código, que você salva em um repositório.
 
-=> Repositório
+=> Repo
 É um conjunto de commits separado por assunto/projeto
 
 Criar um repositório:
@@ -23,3 +25,7 @@ git diff
 
 Ignorar modificações em um arquivo:
 git checkout nome-do-arquivo
+
+## Branches
+
+Uma ramificação do código
