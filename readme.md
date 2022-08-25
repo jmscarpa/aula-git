@@ -28,4 +28,8 @@ git checkout nome-do-arquivo
 
 ## Branches
 
-Uma ramificação do código
+how to create a new branch:
+git checkout -b branch-name
+
+how to move to another branch:
+git checkout branch-name
